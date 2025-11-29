@@ -1,0 +1,1 @@
+# ZITA Telecom - Expiry Portal\n\nRun locally:\n\n```bash\nnpm install\nnpm run dev\n```\n
